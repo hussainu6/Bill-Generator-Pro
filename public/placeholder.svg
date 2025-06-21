@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <style>
+      .bg-light { fill: hsl(222.2, 47.4%, 11.2%); }
+      .bg-dark { fill: hsl(210, 40%, 98%); }
+      .i-light { fill: #fff; }
+      .i-dark { fill: hsl(222.2, 47.4%, 11.2%); }
+    </style>
+  </defs>
+  <rect width="64" height="64" rx="12" class="bg-light"/>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="bold" class="i-light">I</text>
+</svg>
