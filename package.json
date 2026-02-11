@@ -1,7 +1,7 @@
 {
-  "name": "vite_react_shadcn_ts",
+  "name": "bill-generator-pro",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -79,5 +79,25 @@
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
     "vite": "^5.4.1"
-  }
+  },
+  "description": "Professional invoice and bill generator with React, TypeScript, Tailwind CSS",
+  "author": "Uzair Hussain (hussainu6)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hussainu6/Bill-Generator-Pro.git"
+  },
+  "homepage": "https://github.com/hussainu6/Bill-Generator-Pro#readme",
+  "bugs": {
+    "url": "https://github.com/hussainu6/Bill-Generator-Pro/issues"
+  },
+  "keywords": [
+    "invoice",
+    "bill",
+    "generator",
+    "react",
+    "typescript",
+    "tailwind",
+    "vite",
+    "shadcn"
+  ]
 }

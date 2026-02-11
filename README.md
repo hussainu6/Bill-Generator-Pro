@@ -1,6 +1,13 @@
-# Invoice Generator Pro
+# Bill Generator Pro 📄
 
-A modern, feature-rich invoice generator built with React, TypeScript, and Tailwind CSS. Create professional invoices with ease using this comprehensive web application.
+A modern, feature-rich invoice & bill generator built with React, TypeScript, and Tailwind CSS. Create professional invoices with ease using this comprehensive web application.
+
+[![React](https://img.shields.io/badge/React-18-61DAFB.svg)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5+-blue.svg)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-5-646CFF.svg)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38B2AC.svg)](https://tailwindcss.com/)
+[![shadcn/ui](https://img.shields.io/badge/shadcn-ui-black.svg)](https://ui.shadcn.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## ✨ Features
 
@@ -26,8 +33,8 @@ A modern, feature-rich invoice generator built with React, TypeScript, and Tailw
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd invoice-generator
+   git clone https://github.com/hussainu6/Bill-Generator-Pro.git
+   cd Bill-Generator-Pro
    ```
 
 2. **Install dependencies**
@@ -126,12 +133,7 @@ Simply connect your repository and the platform will automatically build and dep
 
 ## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Make your changes
-4. Commit your changes: `git commit -m 'Add feature'`
-5. Push to the branch: `git push origin feature-name`
-6. Submit a pull request
+We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ## 📄 License
 
